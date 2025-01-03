@@ -1,4 +1,4 @@
-# README for Thesis: *Bitcoin Whales and Alpha Generation*
+# *Bitcoin Whales and Alpha Generation*
 
 ## Overview  
 This thesis investigates the financial performance of Bitcoin whales, focusing on their ability to generate alpha returns exceeding market expectations. The study employs clustering techniques, on-chain data analysis, and historical Bitcoin price data to evaluate trading strategies and efficiency in cryptocurrency markets.
